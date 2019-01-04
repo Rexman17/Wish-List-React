@@ -1,0 +1,31 @@
+{
+  "name": "wishlist-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "google-maps-react": "^2.0.2",
+    "mapbox-gl": "^0.52.0",
+    "react": "^16.7.0",
+    "react-css-grid": "^2.0.0-0",
+    "react-dom": "^16.7.0",
+    "react-google-maps": "^9.4.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.2",
+    "semantic-ui-react": "^0.84.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

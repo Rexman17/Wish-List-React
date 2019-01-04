@@ -1,0 +1,119 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.holiday-h1 {
+  font-family: 'Lobster', cursive;
+  width: 100%;
+  padding-top: 40px;
+  margin:0px!important;
+}
+
+#banner {
+  font-family: 'Roboto', sans-serif;
+	text-shadow:
+		-1px -1px 0 #255,
+		1px -1px 0 #255,
+		-1px 1px 0 #255,
+		1px 1px 0 #255;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    padding: 15px;
+    flex-wrap: wrap;
+    margin-right: -15px;
+     margin-left: -15px;
+}
+
+.card {
+  width: auto;
+  height: auto;
+}
+
+.img-thumbnail {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#side-btn {
+  padding: 10px 20px;
+   font-size: 30px;
+   border-radius: 20px;
+   width:100%;
+   margin: 20px;
+}
+
+#login-container {
+  color: #FF69B4;
+}
+
+.btn-group-horizontal, .btn-lg {
+  padding: 10px 20px;
+   font-size: 30px;
+   border-radius: 20px;
+   height:100%;
+   margin: 20px;
+}
+
+.holidays {
+  padding: 10px 20px;
+   font-size: 30px;
+   border-radius: 20px;
+   width:100%;
+   height: 100%;
+   margin: 20px;
+   margin-left: -140px;
+   margin-top: -2px;
+   text-align: center;
+}
+
+.wishes {
+  margin: 20px;
+
+}
+
+.col-sm-9 {
+  border-radius: 20px;
+  margin-left: -100px;
+}
+
+#submit-button {
+  margin-left: 1030px;
+  margin-top: 10px;
+}
+
+#sort-by-text {
+  margin-left: -170px
+}
