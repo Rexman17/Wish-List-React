@@ -1,16 +1,3 @@
-################################################################################
-Welcome to Ali's Wish List!!!
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-# WishList_React_App
+Allows users to create a personalized wish list, complete with item pricing and store locations
++ Leveraged React and JavaScript on the front end, Utilized React Router for multiple client-side routes
++ Integrated Google React Maps API for embedded maps with location markers
